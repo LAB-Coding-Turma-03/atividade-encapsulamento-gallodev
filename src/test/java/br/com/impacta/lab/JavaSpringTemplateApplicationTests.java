@@ -3,7 +3,7 @@ package br.com.impacta.lab;
 import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
-import br.com.impacta.models.*;
+import br.com.impacta.models.Carro;
 import org.junit.Test;
 
 public class JavaSpringTemplateApplicationTests {
